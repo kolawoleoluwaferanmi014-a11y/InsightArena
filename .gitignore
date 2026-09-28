@@ -28,3 +28,6 @@ package-lock.json
 .mimocode/
 mimocode.json
 mimocode.jsonc
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
